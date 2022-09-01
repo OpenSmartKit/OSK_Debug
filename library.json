@@ -1,0 +1,25 @@
+{
+	"name": "OSK Debug",
+	"keywords": "osk, debug, telnet, serial",
+	"description": "Allows to debug over Telnet and Serial. It is implementation for global use of ESPTelnet",
+	"license": "GPL",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/OpenSmartKit/OSK_Debug"
+	},
+	"authors": [
+		{
+			"name": "baltazorr",
+			"email": "baltazorr@gmail.com",
+			"maintainer": true
+		},
+		{
+			"name": "strange_v",
+			"email": "strange.rand@gmail.com",
+			"maintainer": true
+		}
+	],
+	"version": "0.1.0",
+	"frameworks": "arduino",
+	"platforms": "espressif32"
+}
