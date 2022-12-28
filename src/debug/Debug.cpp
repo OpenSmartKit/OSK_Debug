@@ -1,8 +1,8 @@
 
 #include <Debug.h>
 
-#if DEBUG_ON
-#if DEBUG_USE_TELNET
+#if OSK_DEBUG_ON
+#if OSK_DEBUG_USE_TELNET
 
 ESPTelnet telnet;
 
