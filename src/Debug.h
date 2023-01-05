@@ -34,8 +34,7 @@
 
 #else
   #define DBG(format, ...)
-  #define DBG_S(str)
-  #define DBG_S2(str, str2)
+  #define DBG_VAR(str)
 #endif
 
 #if OSK_DEBUG_ON
